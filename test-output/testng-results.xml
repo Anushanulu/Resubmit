@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="119171" started-at="2022-01-19T13:01:52Z" finished-at="2022-01-19T13:03:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="119171" started-at="2022-01-19T13:01:52Z" finished-at="2022-01-19T13:03:51Z">
+      <class name="Resubmit_IN_main.ResubmitRequest_IN">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Resubmit_IN_main.ResubmitRequest_IN@204f30ec]" name="setup" is-config="true" duration-ms="9164" started-at="2022-01-19T18:31:52Z" finished-at="2022-01-19T18:32:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="RIPC_Login()[pri:0, instance:Resubmit_IN_main.ResubmitRequest_IN@204f30ec]" name="RIPC_Login" duration-ms="56338" started-at="2022-01-19T18:32:01Z" finished-at="2022-01-19T18:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RIPC_Login -->
+        <test-method status="PASS" signature="modifyRequestdetails()[pri:1, instance:Resubmit_IN_main.ResubmitRequest_IN@204f30ec]" name="modifyRequestdetails" duration-ms="13401" started-at="2022-01-19T18:32:58Z" finished-at="2022-01-19T18:33:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyRequestdetails -->
+        <test-method status="PASS" signature="modifyRequestInfo()[pri:2, instance:Resubmit_IN_main.ResubmitRequest_IN@204f30ec]" name="modifyRequestInfo" duration-ms="40219" started-at="2022-01-19T18:33:11Z" finished-at="2022-01-19T18:33:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyRequestInfo -->
+      </class> <!-- Resubmit_IN_main.ResubmitRequest_IN -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
